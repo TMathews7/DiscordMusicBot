@@ -1,4 +1,5 @@
  // For convenience, here's a consolidated list of the required NuGet packages along with their installation commands using the .NET CLI:
+ // Just run these commands in your visual studio console and it should install the necessary packages.
 
  // DSharpPlus
 
